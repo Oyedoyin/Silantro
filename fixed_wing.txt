@@ -1,4 +1,4 @@
-FIXED;3.5;PATCH;• Added a proper flight control system to handle input and command processing on the aircraft. The FCS can operate in Command Augmentation, Stability Augmentation, Autonomous or Manual mode.
+FIXED;3.51;PATCH;• Added a proper flight control system to handle input and command processing on the aircraft. The FCS can operate in Command Augmentation, Stability Augmentation, Autonomous or Manual mode.
 • The flight computer can now handle full Autopilot control with Altitude hold, speed hold, heading hold and vertical speed limiter options.
 • Added more numerical corrections for the aircraft control implementation to improve the manoeuvrability on affected aircraft.
 • Added a new ‘Stabilator” type selection for the aerofoils to enable roll-coupling for the horizontal stabilizers. Normal horizontal stabilizers can now also be selected as “Trimmable”.
