@@ -1,4 +1,1 @@
-FIXED;
-3.5;
-PATCH;
-Up to date
+FIXED;3.5;PATCH;Up to date
