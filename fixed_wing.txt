@@ -1,1 +1,6 @@
-FIXED;3.5;PATCH;Up to date
+FIXED;3.5;PATCH;• Added a proper flight control system to handle input and command processing on the aircraft. The FCS can operate in Command Augmentation, Stability Augmentation, Autonomous or Manual mode.
+• The flight computer can now handle full Autopilot control with Altitude hold, speed hold, heading hold and vertical speed limiter options.
+• Added more numerical corrections for the aircraft control implementation to improve the manoeuvrability on affected aircraft.
+• Added a new ‘Stabilator” type selection for the aerofoils to enable roll-coupling for the horizontal stabilizers. Normal horizontal stabilizers can now also be selected as “Trimmable”.
+• Added a simpler force analysis model to improve performance if high force accuracy is not required e.g., on mobile. Will be improved further in the coming updates.
+• Added vortex lift and drag analysis on the wings (must be selected). This improves the realism of unstable airframe/aircraft. Setup: https://youtu.be/cwLsm8w8tGg
