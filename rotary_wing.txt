@@ -1,4 +1,4 @@
 ROTARY;
 3.5;
-UPDATE
+UPDATE;
 Up to date
