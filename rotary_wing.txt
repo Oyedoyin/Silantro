@@ -1,3 +1,1 @@
-ROTARY;3.55;UPDATE;• Added a proper flight control system to handle input and command processing on the aircraft. The FCS can operate in Command Augmentation, Stability Augmentation, Autonomous or Manual mode.
-• The flight computer can now handle full Autopilot control with Altitude hold, speed hold, heading hold and vertical speed limiter options.
-• Added more numerical corrections for the aircraft control implementation to improve the manoeuvrability on affected aircraft.
+ROTARY;3.50;UPDATE;
