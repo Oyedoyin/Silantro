@@ -1,3 +1,4 @@
-FIXED;3.51;PATCH; 1. Added an automation demonstrator 
+FIXED;3.51;PATCH; 
+1. Added an automation demonstrator 
 2. Added a left aerofoil duplication and bind system
 3. Finished up the VR hands and lever components
