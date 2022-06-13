@@ -1,5 +1,3 @@
-FIXED;3.503;PATCH;
-1. Added an automation demonstrator.
-2. Added a left aerofoil duplication and bind system.
-3. Finished up the VR hands and lever components.
-4. Updated tutorials available.
+FIXED;3.505;PATCH;
+1. Fixed Turboprop engine functionality and added a demo scene for it
+2. Added a VR demo scene
