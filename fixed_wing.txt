@@ -1,2 +1,2 @@
-FIXED;3.510;PATCH;
-1. Added experimental airfoils with mach correction.
+FIXED;3.512;PATCH;
+1. Fixed Legacy controls not working in builds.
