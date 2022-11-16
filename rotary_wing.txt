@@ -1,4 +1,4 @@
-ROTARY;3.513;PATCH;
-1. Fixed Autostart function. Helicopter can now autostart after initialization.
-2. Added a Hot Start demo scene
+ROTARY;3.514;PATCH;
+• Fixed vector resolution bug that causes flight instability
+• Improved controls in manual control mode
 
