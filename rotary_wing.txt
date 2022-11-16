@@ -1,4 +1,5 @@
 ROTARY;3.514;PATCH;
 • Fixed vector resolution bug that causes flight instability
 • Improved controls in manual control mode
+• Corrected excessive fuselage pitch moment generation
 
