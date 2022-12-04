@@ -1,5 +1,4 @@
-ROTARY;3.514;PATCH;
-• Fixed vector resolution bug that causes flight instability
-• Improved controls in manual control mode
-• Corrected excessive fuselage pitch moment generation
+ROTARY;3.515;PATCH;
+• Fixed CT and CQ overflow during high decent rates
+• Fixed engine start overtorque bug.
 
